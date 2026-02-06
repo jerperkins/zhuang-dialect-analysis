@@ -12,6 +12,8 @@ The data for this project is hosted on Google Drive in the `Zhuang` folder. The 
 
 > **Data Dictionary:** For a detailed explanation of the filename formats, metadata attributes, and exclusion criteria, please see [metadataDetails.md](metadataDetails.md).
 
+> **Linguistic Article on Zhuang:** JIPA_DZArticle.pdf was published in 2025 on the tonal system in one of the two dialects (DZ). It outlines the tone system and how f0 contour and duration are involved in both the tone contrasts and also in a vowel length contrast. The statistical analysis was done in R with the script and data file available on GitHub here: https://github.com/jerperkins/DZData.
+
 ### How to Access Data in Colab
 To run the notebooks in this repository, you must mount the project Google Drive. Use the following code snippet at the start of your notebook:
 
