@@ -4,8 +4,9 @@
 This project applies MIR techniques to analyze tonal variation between Du'an and Wuming Zhuang dialects.
 
 ### Roadmap
-* **Phase 1 (Feb):** Visualization & Filtering. Build a notebook (the deliverable) to inspect waveforms/spectrograms by speaker and tone.
-* **Phase 2 (Mar):** Quantitative Analysis. Implement DTW (Dynamic Time Warping) and clustering to measure inter-dialect distance and tonal stability.
+* **Phase 0 (finished) (Basic):** Set up this repository.
+* **Phase 1 (early March) (Expected):** Visualization & Filtering. Build a notebook (the deliverable) to inspect waveforms/spectrograms by speaker and tone.
+* **Phase 2 (late March) (Advanced):** Quantitative Analysis. Implement DTW (Dynamic Time Warping) and clustering to measure inter-dialect distance and tonal stability.
 
 ## Data Setup
 The data for this project is hosted on Google Drive in the `Zhuang` folder. The primary metadata file is `FileInfoForRIPA.csv`.
