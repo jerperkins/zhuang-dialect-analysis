@@ -31,7 +31,8 @@ if os.path.exists(file_path):
     print("✅ Data found!")
 else:
     print("❌ Data not found. Please ensure the Zhuang folder is in 'MyDrive'.")
+```
 
-## Workbook in Google Colab:
+## Google Colab Workbook:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jerperkins/zhuang-dialect-analysis/blob/main/CSC575ZhuangProject.ipynb)
