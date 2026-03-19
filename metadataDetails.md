@@ -6,10 +6,12 @@ This document outlines the structure of the data files and the specific attribut
 
 ## Filename Format
 All `.wav` files and associated text annotations (`.TextGrid`) are named according to the format: `AABB_C_DDD_E`
+Suffixes "_E" at the end of filenames correspond to tokens marked during field work as not corresponding to the expected dictionary form.
+Suffixes "_E2S" and "_2S" at the end of the filenames correspond to tokens produced with two syllables rather than the expected one syllable.
 
 * **AA:** The dialect code (either `DZ` or `WZ`)
 * **BB:** Speaker number (sequenced `01` to `15`, independent of dialect)
-* **C:** Dictionary tone for the token (`0` to `9`; `NA` means dictionary tone is unknown)
+* **C:** Dictionary tone for the token (`0` to `9`; `NA` or `X` means dictionary tone is unknown;)
 * **DDD:** Word ID (`1` to `197`)
 * **E:** Repetition number (usually `1` to `5`; specific words repeated up to `15` times)
 
