@@ -5,7 +5,7 @@ This document outlines the structure of the data files and the specific attribut
 > **Note:** All words in the dataset are one syllable and take the form CV(C).
 
 ## Filename Format
-All `.wav` files and associated text annotations (`.TextGrid`) are named according to the format: `AABB_C_DDD_E`
+All `.wav` files and associated text annotations (`.TextGrid`) are named according to the format: `AABB_C_DDD_E`.
 Suffixes "_E" at the end of filenames correspond to tokens marked during field work as not corresponding to the expected dictionary form.
 Suffixes "_E2S" and "_2S" at the end of the filenames correspond to tokens produced with two syllables rather than the expected one syllable.
 
