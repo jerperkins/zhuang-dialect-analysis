@@ -1,4 +1,4 @@
-# Zhuang Dialect Analysis
+# An Interactive Interface for Tonal Dialect Analysis
 
 ## Project Overview
 This project applies MIR techniques to analyze tonal variation between Du'an and Wuming Zhuang dialects.
