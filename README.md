@@ -17,7 +17,7 @@ The data for this project is hosted on Google Drive in the `Zhuang` folder. The 
 
 ## How to Run the Notebook
 
-1. Click the "Open in Colab" badge above
+1. Click the "Open in Colab" badge below
 2. Run the first cell—it will prompt you to authorize Google Drive access
 3. The notebook automatically loads all data from `MyDrive/Zhuang/`
 
