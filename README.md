@@ -5,8 +5,8 @@ This project applies MIR techniques to analyze tonal variation between Du'an and
 
 ### Roadmap
 * **Phase 0 (finished) (Basic):** Set up this repository.
-* **Phase 1 (early March) (Expected):** Visualization & Filtering. Build a notebook (the deliverable) to inspect waveforms/spectrograms by speaker and tone.
-* **Phase 2 (late March) (Advanced):** Quantitative Analysis. Implement DTW (Dynamic Time Warping) and clustering to measure inter-dialect distance and tonal stability.
+* **Phase 1 (finished) (Expected):** Visualization & Filtering. Build a notebook (the deliverable) to inspect waveforms/spectrograms by speaker and tone.
+* **Phase 2 (finished) (Advanced):** Quantitative Analysis. Implement DTW (Dynamic Time Warping) and similarity matrices to measure inter-dialect distance and tonal similarity between and within speakers.
 
 ## Data Setup
 The data for this project is hosted on Google Drive in the `Zhuang` folder. The primary metadata file is `FileInfoForRIPA.csv`.
